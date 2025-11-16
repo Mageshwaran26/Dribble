@@ -161,7 +161,7 @@ Publish the website in the LocalHost.
 
     <footer class="bg-dark text-white py-4">
         <div class="container text-center">
-            <p>Designed by Praveen S</p>
+            <p>Designed by Mageshwaran T A</p>
         </div>
     </footer>
  
